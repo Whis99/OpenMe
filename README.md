@@ -1,15 +1,31 @@
 # OpenME
 
-Gift
+**OpenMe** is custom made gallery & memories gift made with flutter. It contains a countdown counting
+the time remaining for a person birthday and a gallery where you can add the person pictures and memories
+with that person and also a special section for some special message.
 
-## Getting Started
+## User Stories
 
-This project is a starting point for a Flutter application.
+The following functionality is completed:
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Countdown counting time remaining.
+- [x] Password section to go to the gallery section.
+- [x] Photos and memories section.
+- [x] Special section for special message.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+## Demo
+
+Here's a demo of implemented user stories:
+
+<img src='' title='Demo walkthrough' width='' alt='Demo' />
+
+
+## Open-source ressources used
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [Pixabay](https://pixabay.com/)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
