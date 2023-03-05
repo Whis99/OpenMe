@@ -8,8 +8,8 @@ with that person and also a special section for some special message.
 
 The following functionality is completed:
 
-- [x] Countdown counting time remaining.
-- [x] Password section to go to the gallery section.
+- [x] Countdown counting birthday time remaining.
+- [x] Password section to go to gallery section.
 - [x] Photos and memories section.
 - [x] Special section for special message.
 
