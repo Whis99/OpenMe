@@ -18,7 +18,9 @@ The following functionality is completed:
 
 Here's a demo of implemented user stories:
 
-<img src='' title='Demo walkthrough' width='' alt='Demo' />
+<img src='login.jpg' title='Demo walkthrough' width='' alt='Demo' />
+<img src='gallery1.jpg' title='Demo walkthrough' width='' alt='Demo' />
+<img src='gallery2.jpg' title='Demo walkthrough' width='' alt='Demo' />
 
 
 ## Open-source ressources used
